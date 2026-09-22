@@ -5,8 +5,13 @@
 [![Device](https://img.shields.io/badge/Device-Lava%20P7-blue.svg)](https://github.com/karansinghbhardwaj/Lava-P7-Custom-Rom-and-Custom-Recovery/)
 [![Chipset](https://img.shields.io/badge/Chipset-MediaTek%20MT6580-orange.svg)](https://wiki.postmarketos.org/wiki/MediaTek_MT6580)
 [![Architecture](https://img.shields.io/badge/Architecture-32--bit%20(armv7l)-red.svg)](https://support.arm.com/documentation/dui0471/m/key-features-of-arm-architecture-versions/arm-architecture-v7-m)
+[![Read More](https://img.shields.io/badge/Read-More-red.svg)](https://mrksbdev.blogspot.com/p/blog-page_74.html)
+
+https://mrksbdev.blogspot.com/p/blog-page_74.html
 
 A complete archive of custom recoveries, custom ROMs, and flashing resources for the **Lava P7** (MediaTek MT6580). This repository serves as a permanent preservation project for Android enthusiasts, developers, and users looking to flash, root, or unbrick their Lava P7 smartphone.
+
+If you want to read more about these roms and recovery, here is my OLD blog (Remember Links are broken on this blogs, so download all the files from release section of this blog): [![Read More](https://img.shields.io/badge/Read-More-red.svg)](https://mrksbdev.blogspot.com/p/blog-page_74.html)
 
 ---
 
