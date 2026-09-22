@@ -12,6 +12,9 @@ A complete archive of custom recoveries, custom ROMs, and flashing resources for
 
 If you want to read more about these roms and recovery, here is my OLD blog (Remember Links are broken on this blogs, so download all the files from release section of this blog): [![Read More](https://img.shields.io/badge/Read-More-red.svg)](https://mrksbdev.blogspot.com/p/blog-page_74.html)
 
+You can find these files on internet archive too: [![Internet Archive](https://img.shields.io/badge/Internet-Archive-Black.svg)](https://archive.org/details/Lava-P7-Custom-Rom-and-Custom-Recovery)
+
+
 ---
 
 ## 📱 Device Specifications
