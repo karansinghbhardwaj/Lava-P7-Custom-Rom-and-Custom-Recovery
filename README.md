@@ -29,13 +29,13 @@ A complete archive of custom recoveries, custom ROMs, and flashing resources for
 All flashable binary `.zip` and `.img` files are hosted under the [Releases Page](https://github.com/karansinghbhardwaj/Lava-P7-Custom-Rom-and-Custom-Recovery/releases).
 
 ### 🛠️ Custom Recoveries
-* **[Insert Recovery Name, e.g., TWRP 3.x / PhilZ Touch / CWM]**
+* **[TWRP]**
   * **File Name:** `recovery.img`
   * **Status:** Stable / Fully Functional
   * **Download Link:** [Get File from Releases](https://github.com/karansinghbhardwaj/Lava-P7-Custom-Rom-and-Custom-Recovery/releases)
 
 ### 🚀 Custom ROMs
-* **[CyanogenMod 13, Resurrection Remix OS, ]**
+* **[CyanogenMod 13, Resurrection Remix OS ]**
   * **Build Type:** Custom / Unofficial
   * **Working Features:** Wi-Fi, Bluetooth, RIL (Calls/SMS), Camera, Audio,Use Audio Fix Patches
   * **Known Bugs:** None
